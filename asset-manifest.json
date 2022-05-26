@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd261716.css",
-    "main.js": "/static/js/main.58462fd0.js",
-    "static/js/787.10f880ce.chunk.js": "/static/js/787.10f880ce.chunk.js",
-    "index.html": "/index.html",
-    "main.bd261716.css.map": "/static/css/main.bd261716.css.map",
-    "main.58462fd0.js.map": "/static/js/main.58462fd0.js.map",
-    "787.10f880ce.chunk.js.map": "/static/js/787.10f880ce.chunk.js.map"
+    "main.css": "/LudoApp/static/css/main.e11c22dc.css",
+    "main.js": "/LudoApp/static/js/main.84398d1b.js",
+    "static/js/787.10f880ce.chunk.js": "/LudoApp/static/js/787.10f880ce.chunk.js",
+    "index.html": "/LudoApp/index.html",
+    "main.e11c22dc.css.map": "/LudoApp/static/css/main.e11c22dc.css.map",
+    "main.84398d1b.js.map": "/LudoApp/static/js/main.84398d1b.js.map",
+    "787.10f880ce.chunk.js.map": "/LudoApp/static/js/787.10f880ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd261716.css",
-    "static/js/main.58462fd0.js"
+    "static/css/main.e11c22dc.css",
+    "static/js/main.84398d1b.js"
   ]
 }
