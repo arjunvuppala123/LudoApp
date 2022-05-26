@@ -1,14 +1,26 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 
 html {
-  font-size: 62.5%;
+  font-size: 60%;
   box-sizing: border-box;
+}
+
+h1{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+p{
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
 }
 
 body {
   font-family: "Nunito", sans-serif;
   font-weight: 400;
-  height: 115vh;
+  height: 126vh;
   color: #333;
   background-color: black;
   display: flex;

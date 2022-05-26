@@ -145,9 +145,12 @@ function LudoApp() {
             <section ref={player1}
                 class="player player--0 player--active">
                 <h2 class="name" id="name--0">Player 1</h2>
+                <div class="totalScore">
+                <p class="score-label">Total</p>
                 <p ref={score1ref}
                     class="score"
                     id="score--0">0</p>
+                </div>
                 <div class="current">
                     <p class="current-label">Current</p>
                     <p ref={current1ref}
@@ -158,9 +161,12 @@ function LudoApp() {
             <section ref={player2}
                 class="player player--1">
                 <h2 class="name" id="name--1">Player 2</h2>
+                <div class="totalScore">
+                <p class="score-label">Total</p>
                 <p ref={score2ref}
                     class="score"
                     id="score--1">0</p>
+                </div>
                 <div class="current">
                     <p class="current-label">Current</p>
                     <p ref={current2ref}
@@ -177,7 +183,7 @@ function LudoApp() {
             <button onClick={diceRoll} ref={btnR}
                 class="btn btn--roll">🎲 Roll dice</button>
             <button onClick={addScore} ref={btnH}
-                class="btn btn--hold">📥 Hold</button>
+                class="btn btn--hold">📥 Save Score</button>
         </main>
     )
 }
